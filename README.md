@@ -1,6 +1,7 @@
 # springMVC1
 [백엔드 웹 개발 공부](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard)
 유료강의라 노트에 모든 내용을 공개하진 않을 예정.
+저장은 master 브랜치에!
 
 SECTION 1 ) 웹 애플리케이션 이해 [NOTE](https://lucie-ko.notion.site/SECTION-1-b936f3e7c95042dda72fca52e1176c90)
 - 웹 서버, 웹 애플리케이션 서버
@@ -16,3 +17,10 @@ SECTION 2 ) 서블릿 [NOTE](https://lucie-ko.notion.site/SECTION-2-747fd83c4576
 - HTTP 요청 데이터 - GET 쿼리 파라미터, POST HTML Form, API 메시지 바디 (단순 텍스트, JSON)
 - HttpServletResponse
 - HTTP 응답 데이터 - 단순 텍스트, HTML, API JSON
+
+SECTION 3) 서블릿, JSP 그리고 MVC 패턴 [NOTE](https://lucie-ko.notion.site/SECTION-3-JSP-MVC-5b4af0b91bf242dd825e5994cbc4b0ec)
+- 회원 관리 웹 애플리케이션 요구사항
+- 서블릿으로 회원 관리 웹 애플리케이션 만들기
+- JSP로 회원 관리 웹 애플리케이션 만들기
+- MVC 패턴 - 개요, 적용, 한계
+- 정리
