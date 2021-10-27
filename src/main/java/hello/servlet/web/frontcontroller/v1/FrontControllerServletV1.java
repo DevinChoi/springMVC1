@@ -20,7 +20,7 @@ public class FrontControllerServletV1 extends HttpServlet {
     private Map<String, ControllerV1> controllerMap = new HashMap<>();
 
     public FrontControllerServletV1(Map<String, ControllerV1> controllerMap) {
-                            // mappingURI : 호출될 컨트롤러
+                                                    // mappingURI : 호출될 컨트롤러
         controllerMap.put("/front-controller/v1/members/new-form",new MemberFormControllerV1());
         controllerMap.put("/front-controller/v1/members/save",new MemberSaveControllerV1());
         controllerMap.put("/front-controller/v1/members/members",new MemberListControllerV1());
