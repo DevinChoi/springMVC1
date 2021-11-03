@@ -1,5 +1,5 @@
 # springMVC1
-[백엔드 웹 개발 공부](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard) 
+[백엔드 웹 개발 공부](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard) <- 강의 링크
 
 유료강의라 노트에 모든 내용을 공개하진 않을 예정.
 코드는 [master](https://github.com/lucie-y/springMVC1/tree/master) 브랜치에!
@@ -32,3 +32,18 @@ SECTION 4) MVC 프레임워크 만들기 [NOTE](https://lucie-ko.notion.site/SEC
 - 단순하고 실용적인 컨트롤러 - v4
 - 유연한 컨트롤러1 - v5
 - 유연한 컨트롤러2 - v5
+
+SECTION 5) 스프링 MVC - 구조 이해 [NOTE](https://lucie-ko.notion.site/SECTION-5-MVC-19d5a14c8c52461d95502f25ee60403c)
+- 스프링 MVC 전체 구조
+- 핸들러 매핑과 핸들러 어댑터
+- 뷰 리졸버
+- 스프링 MVC - 시작하기
+- 스프링 MVC - 컨트롤러 통합
+- 스프링 MVC - 실용적인 방식
+
+SECTION 6) 스프링 MVC - 기본 기능 [NOTE](https://lucie-ko.notion.site/SECTION-6-MVC-d79c81630edc475dbf0becab5dccab17)
+- [프로젝트 생성](https://github.com/lucie-y/springMVC-welcome)
+- 로깅 간단히 알아보기
+- 요청 매핑
+- 요청 매핑 - API 예시
+
